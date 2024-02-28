@@ -1,2 +1,3 @@
 Max Wang
-Educated: Yes
+Computer Science and Game Developement
+2027
